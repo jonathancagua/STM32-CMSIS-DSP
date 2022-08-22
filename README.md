@@ -27,7 +27,7 @@ C/C++ Build >Settings > Tool Settings > MCU GCC Compiler > Include paths.
 ![plot](img/propiedades.png)
 - Dar click on “Add” para incluir el nuevo path.
  "../Drivers/CMSIS/DSP/Include"
-![plot](img/add_path.png)
+![plot](img/dsp-inc.png)
 - En Preprocessor agregar “ARM_MATH_CM4” y "__FPU_PRESENT"
 ![plot](img/librerias.png)
 
